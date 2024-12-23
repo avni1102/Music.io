@@ -16,11 +16,11 @@ To run Music.io locally, follow these steps:
    ```bash
    git clone https://github.com/avni1102/Music.io.git
    
-1. **Navigate to the Project Directory::**
+2. **Navigate to the Project Directory::**
    ```bash
    cd Music.io
 
-1. **Open index.html in Your Preferred Browser:**
+3. **Open index.html in Your Preferred Browser:**
    ```bash
    open index.html
    Alternatively, you can double-click the index.html file to open it in your default browser.
